@@ -92,9 +92,9 @@ Full-stack developer building scalable web solutions with modern tech and AI. I 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham2703005&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](ithub-readme-stats-eight-theta.vercel.app/api?username=Pratham2703005&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2703005&layout=compact&theme=dark&hide_border=true)
+![Top Languages](ithub-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pratham2703005&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratham2703005&theme=dark&hide_border=true)
 
